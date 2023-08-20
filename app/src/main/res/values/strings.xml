@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Goa 360</string>
+    <string name="place">Panaji: A relaxed state capital!</string>
+
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string-array name="location_text">
+        <item>Panaji: A relaxed state capital!</item>
+        <item>Mandrem: A sleepy coastal village!</item>
+        <item>Vasco da Gama: Mostly the beaches!</item>
+        <item>Candolim: As relaxed as it gets!</item>
+        <item>Anjuna: Still a bit hippy after all these years!</item>
+        <item>Old Goa: Sweeping splendour and grandeur!</item>
+        <item>Margao: Cultural capital of Goa!</item>
+        <item> Ponda: Heritage and the smell of spices!</item>
+        <item>Canacona: It’s all about the beaches!</item>
+        <item>Sanguem: South Goa – Loners Paradise</item>
+    </string-array>
+
+    <string-array name="description_text">
+        <item>Panaji should occupy a place in your list of visiting places in Goa, not just because it’s the capital city, but because there are so many places that make for an incredible sightseeing tour. From taking a heritage walk in Fontainhas – the Latin Quarters to spending a day at the Miramar Beach, this city promises you a quality time. Ornithologists and bird lovers can also visit the Dr. Salim Ali Bird Sanctuary, situated just 7 kilometers from here and home to migratory birds as well as common and uncommon species of marsh dwelling birds.</item>
+
+        <item>How about visiting a beach in Goa which also offers the opportunity to enjoy an Ayurvedic massage? Mandrem, a sleepy coastal village makes it to this list of top tourist places in Goa for its beach, which is perhaps the quietest in all of North Goa. It is lined with a few beach shacks and some hotels that offer some amazing food, including local delicacies. You can also hire sunbeds and spend a day getting a suntan and spending some quality time. If you are up for a massage, there is a small massage center where you can get one!</item>
+
+        <item>The city of Vasco da Gama is named after the Portuguese explorer. If you are planning to visit Goa to spend time on its beaches, then this is where you need to be. There are several beaches like Cansaulim, which is great for watching the setting sunset, or Hollant, perfect for a wild ride with your friends! There are other attractions too, like the St. Andrews’s Church which is 400 years old. There’s also a Naval Aviation Museum, which is one of three such museums in India. If you visit it in March though, you can attend the Shigmo, a festival marked by street dances and colourful parades.</item>
+
+        <item>Candolim, just like Calangute, attracts tourists in Goa for its prime attraction, Candolim Beach. However, if you like your beaches crowded and noisy with a party like atmosphere, you won’t find much to do here! It is for you though, if all you are looking forward to is a sunbath, admiring the sunset, maybe a dip and enjoying parasailing. One other reason that you should visit the beach is the “River Princess”, a bulk carrier which ran aground 100 meters ashore. Pick a sunbed, watch the waves kiss the shore while they are tinged with red and yellow during sunrise and sunset.</item>
+
+        <item>If you took a trip to Goa in the 1960’s and visited the village of Anjuna, you would find yourself in the middle of trance parties, hippies in psychedelic colours and free spirited backpackers. Today, you will find all sorts of tourists, both domestic and international, with some traces of that hippie era. One way of getting a feel of that is visiting the Flea Market, which opens on Wednesdays. You can lay hands on all kinds of stuff from sarongs, sandalwood and leather goods to crystals and stones. The other top place to visit is the Anjuna Beach, comparatively less crowded among the other beaches in Goa. To experience the trance scene, visit it in the evening and head towards restaurants like Curlies or Shiva Valley.</item>
+
+        <item>If you took a trip to Goa in the 1960’s and visited the village of Anjuna, you would find yourself in the middle of trance parties, hippies in psychedelic colours and free spirited backpackers. Today, you will find all sorts of tourists, both domestic and international, with some traces of that hippie era. One way of getting a feel of that is visiting the Flea Market, which opens on Wednesdays. You can lay hands on all kinds of stuff from sarongs, sandalwood and leather goods to crystals and stones. The other top place to visit is the Anjuna Beach, comparatively less crowded among the other beaches in Goa. To experience the trance scene, visit it in the evening and head towards restaurants like Curlies or Shiva Valley.</item>
+
+        <item>Margao is not the kind of place which you would want to miss while planning to visit Goa. The town claims the tag of being Goa’s cultural capital, and after exploring it, you realize, it’s a tag well deserved. The prominent landmarks in the town are the Municipal Garden, The Holy Spirit Church, House of Seven Gables and Damodar Temple, all of which are famous points of interest for tourists. You should also visit the special market to explore the various species and dried fish. Almost all the specialties that make Goa famous are to be found in Margao, apart from the Margao curry. It’s interesting to know that Margao Curry is exported to Portugal and elsewhere.</item>
+
+
+        <item>Another tourist destination in North Goa where you can explore the rich heritage of Goa is Ponda, with its temples, an ancient mosque and beautiful spice farms. One of these is the Sahakari Spice Farm, a visit to which acquaints you with various types of spices. The farm is set in a tropical garden. There are also a few stalls where you can purchase spices and oils. Tropical Spice Plantation is another spice farm where you see trees like Mexican Mirchi, Pepper Tree and Lavender Tree. It’s interesting to see and know about the various trees and plants which lend that peculiar taste to our food and make it so delicious!</item>
+
+        <item>The city of Canacona lies in close proximity to wonderful beaches like Patnem, Rajbaga, Colomb and Talpona. Each of these beaches have something different to offer. At Palolem Beach, for example, you can go boating to Monkey, Honeymoon and Butterfly Islands. Talpona Beach, on the other hand, is untouched, pristine and secluded, with an extremely relaxed vibe.</item>
+
+        <item>Your travel experience will remain incomplete if you don’t visit Sanguem. It is one of the lesser-known destinations to visit in Goa. Though it does not fit in the commercial tourism destinations   in Goa, this place is worth a visit. It is blessed with numerous tourist attractions which will surprise you to the core of your heart. It boasts of mysterious caves in Rivona, which is also known as Pandava Caves the kind of which you will not find anywhere else. It is said that Pandavas of Mahabharata lived in these caves during their exile. Lots of spice plantations, dams and waterfalls makes Sanguem scenic and soothing to the heart and eyes. It’s not a place where you can enjoy the pleasure of beaches but if you want to experience something different from the usual beaches of Goa, Sanguem is a place for you.
+        </item>
+    </string-array>
+
+    <string-array name="links">
+        <item>https://goo.gl/maps/dQirwziTgx4tZkvv8</item>
+        <item>https://goo.gl/maps/RPZhVrpQQu6f3mmU7</item>
+        <item>https://goo.gl/maps/2efhNYHeQgnsJhu67</item>
+        <item>https://goo.gl/maps/dfT9A3o3jTVzuJTj8</item>
+        <item>https://goo.gl/maps/o73EH4k8v6Q1gn4Y8</item>
+        <item>https://goo.gl/maps/EdsUk3JfVDoVs4Jx9</item>
+        <item>https://goo.gl/maps/e6eNuqeiJ6ztyo8U6</item>
+        <item>https://goo.gl/maps/KEL3CC5RWPpGRNUN8</item>
+        <item>https://goo.gl/maps/j72XAYu5Kz4TpCQS9</item>
+        <item>https://goo.gl/maps/Vzdr7pQqXdn5kBr88</item>
+    </string-array>
+</resources>
